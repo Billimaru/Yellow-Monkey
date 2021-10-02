@@ -1,0 +1,90 @@
+.navigation-bar{
+
+  font-family: 'Ubuntu', sans-serif;
+  padding-left: 70px;
+  padding-right: 170px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  position: sticky;
+  /* background-repeat: no-repeat;
+  background-attachment: fixed; */
+  background-color: black;
+}
+.navbar-brand{
+  font-family: 'Gluten', cursive;
+  padding-right: 700px;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #ABB6BC;
+  position: relative;
+  text-align: center;
+}
+.row{
+  color: black;
+}
+.icon-symbol{
+  color: #539092;
+}
+#orders {
+  padding-top: 800px;
+  padding-bottom:  400px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  background-color: #ABB6BC;
+  color: black;
+  height: 500px;
+}
+.card{
+  background-color: #539092;
+  color: black;
+  border-radius: 10px;
+}
+.card-header{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+}
+.card-body{
+  font-family: 'Jost', sans-serif;
+  font-size: 18px;
+  height: 140px;
+  text-align: center;
+}
+#testimonials {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.testimonials-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.icon-symbol{
+  color:black;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+#home{
+background-image: url('images\mgg-vitchakorn-98Xi5vMGKck-unsplash.jpg');
+}
+.icon-heading{
+  padding-top:10px;
+}
+.black-head{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+}
+.reviews{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+}
+.footer-text{
+  color: white;
+}
